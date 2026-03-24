@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis (Tableau Project)
+# Blinkit Sales Analysis (TabBlue Project)
 
 This project analyzes Blinkit's sales data using **Tableau** to uncover insights about product performance, outlet sales, and customer demand patterns.
 
@@ -108,7 +108,7 @@ Possible enhancements:
 
 ## Author
 
-**Sapna Gangad**
+**Siddharth Kumbhar**
 
 Aspiring Data Analyst  
 Skills: SQL | Excel | Python | Power BI | Tableau
